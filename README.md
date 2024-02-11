@@ -69,7 +69,8 @@ This function first defines an empty string called `encoded_text` to store the e
 result = caesar_cipher(text, shift, direction)
 print(f"The {direction}d text is: {result}")
 ```
-** Explanation: **
+
+**Explanation:**
 
 * In this section, we call the `caesar_cipher` function with the text, number of letters shifted, and operation type as inputs and store the result in the `result` variable.
 * 
